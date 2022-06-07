@@ -1,3 +1,29 @@
+# Các Password có thể xuất hiện trong file cài:
+
+```
+
+```
+
+```
+123
+```
+
+```
+https://www.youtube.com/channel/UC1Npa_Mu85Qo1Rut5K1Rh7g
+```
+```
+https://www.youtube.com/channel/UC8didcLVaL4iTfbuWBGv51w
+```
+
+```
+https://www.youtube.com/channel/UCH483xUrLcOpTyhM9lv281g
+```
+
+```
+https://www.youtube.com/channel/UCG48mG78znU95DSxyCBffOg
+```
+
+
 # BlueStacks 5
 [BlueStacks_5_Lite_Official_v5.0.50.1021_x64_KhanhNguyen9872.exe](https://drive.google.com/file/d/1hqrMZR_IFTfVXNt9SQvbwndWgVpYP3KS/view?usp=sharing) <br />
 [BlueStacks_5_Lite_Rooted_Official_v5.0.50.1021_x64_KhanhNguyen9872.exe](https://drive.google.com/file/d/1eEnAAm0OaqflGlpGe9O6tABoE5UU7SO9/view?usp=sharing) <br />
